@@ -1,0 +1,36 @@
+<?php
+echo '[{
+    "imgurl":"img/ca1.jpg",
+    "cont":"疯狂外星人",
+    "pingfen":8.6
+    },{
+    "imgurl":"img/ca2.jpg",
+    "cont":"飞驰人生",
+    "pingfen":"8.9"
+    },{
+    "imgurl":"img/ca3.jpg",
+    "cont":"流浪地球",
+    "pingfen":"9.2"
+    },{
+    "imgurl":"img/ca4.jpg",
+    "cont":"新喜剧之王",
+    "pingfen":"8.2"
+    },{
+    "imgurl":"img/ca5.jpg",
+    "cont":"熊出没之原始时代",
+    "pingfen":9.2
+    },{
+    "imgurl":"img/ca6.jpg",
+    "cont":"神探蒲松龄",
+    "pingfen":7.9
+    },{
+    "imgurl":"img/ca7.jpg",
+    "cont":"廉政风雨",
+    "pingfen":8
+    },{
+    "imgurl":"img/ca8.jpg",
+    "cont":"小猪佩奇过大年",
+    "pingfen":5.5
+    }
+]'
+?>
